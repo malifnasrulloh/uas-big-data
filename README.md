@@ -254,20 +254,20 @@ e. Kamar dengan ADR menengah, seperti Tipe D (116.37) dan Tipe E (119.06), juga 
 
 ## Wawasan dan Narasi Keseluruhan
 1. Pembatalan Reservasi
-* Faktor Deposit: Jenis deposit yang diminta oleh penginapan sangat mempengaruhi keputusan pembatalan.
-* No Deposit: Memiliki jumlah reservasi tertinggi dan proporsi pembatalan yang lebih rendah.
-* Non Refundable: Meskipun tarif lebih rendah, tingkat pembatalan sangat tinggi, menunjukkan pengaruh besar dari kebijakan pengembalian dana.
-* Refundable: Meskipun jumlah reservasi paling sedikit, tetap ada risiko pembatalan yang signifikan.
+* **Faktor Deposit**: Jenis deposit yang diminta oleh penginapan sangat mempengaruhi keputusan pembatalan.
+* **No Deposit**: Memiliki jumlah reservasi tertinggi dan proporsi pembatalan yang lebih rendah.
+* **Non Refundable**: Meskipun tarif lebih rendah, tingkat pembatalan sangat tinggi, menunjukkan pengaruh besar dari kebijakan pengembalian dana.
+* **Refundable**: Meskipun jumlah reservasi paling sedikit, tetap ada risiko pembatalan yang signifikan.
 
 2. Durasi Menginap
-* Durasi Terpanjang: Tamu yang memesan melalui agen perjalanan offline cenderung menginap lebih lama (3.90 malam), diikuti oleh Aviation dan Online TA.
-* Durasi Terpendek: Tamu dengan durasi menginap terpendek (1.50 malam) adalah dari segmen Undefined, yang menunjukkan adanya data yang tidak lengkap. Complementary juga menunjukkan durasi pendek (1.65 malam).
-* Segmen Lainnya: Tamu yang memesan langsung atau dalam grup memiliki durasi menginap yang lebih baik dibandingkan dengan segmen yang lebih pendek.
+* **Durasi Terpanjang**: Tamu yang memesan melalui agen perjalanan offline cenderung menginap lebih lama (3.90 malam), diikuti oleh Aviation dan Online TA.
+* **Durasi Terpendek**: Tamu dengan durasi menginap terpendek (1.50 malam) adalah dari segmen Undefined, yang menunjukkan adanya data yang tidak lengkap. Complementary juga menunjukkan durasi pendek (1.65 malam).
+* **Segmen Lainnya**: Tamu yang memesan langsung atau dalam grup memiliki durasi menginap yang lebih baik dibandingkan dengan segmen yang lebih pendek.
 
 3. Lead Time
-* Lead Time Pendek (0-100 hari): Tingkat pembatalan sangat tinggi, terutama di bawah 30 hari.
-* Lead Time Menengah (100-300 hari): Pembatalan mulai menurun, tetapi masih signifikan.
-* Lead Time Panjang (>300 hari): Pembatalan jarang terjadi, menunjukkan stabilitas reservasi.
+* **Lead Time Pendek (0-100 hari)**: Tingkat pembatalan sangat tinggi, terutama di bawah 30 hari.
+* **Lead Time Menengah (100-300 hari)**: Pembatalan mulai menurun, tetapi masih signifikan.
+* **Lead Time Panjang (>300 hari)**: Pembatalan jarang terjadi, menunjukkan stabilitas reservasi.
 
 4. Korelasi Negara
 * Asal Geografis: Sebagian besar pelanggan berasal dari Portugal, diikuti oleh Inggris, Prancis, dan Spanyol. Negara dengan jumlah pelanggan rendah seperti Belgia dan Belanda menunjukkan potensi untuk strategi pemasaran yang lebih baik.
@@ -290,12 +290,11 @@ Kesimpulan dari analisis data reservasi hotel menunjukkan bahwa jenis deposit be
 Rekomendasi untuk manajemen hotel meliputi penawaran opsi deposit yang lebih fleksibel, pembuatan paket promosi untuk tamu yang menginap lebih lama, dan penerapan kebijakan ketat untuk pemesanan dengan lead time pendek. Selain itu, fokuskan pemasaran di negara-negara dengan potensi rendah seperti Belgia dan Belanda, serta tingkatkan kerjasama dengan saluran distribusi yang menunjukkan tingkat pembatalan rendah. Dengan langkah-langkah ini, manajemen dapat meningkatkan kepuasan pelanggan dan memaksimalkan pendapatan.
 
 ## Team 
-**Nama dan NIM Anggota Kelompok :**
-**Kelas : Analisis Big Data B**
-
-Angga Rofiul Putra (202110370311421)
-Muhammad Alif Nasrulloh (202110370311437)
-Anisha Wulandari P (202110370311438)
+| **Nama**                | **Kelas**           | **NIM** |
+| ----------------------- | ------------------- | --------------------- |
+| Angga Rofiul Putra      | Analisis Big Data B | 202110370311421       |
+| Muhammad Alif Nasrulloh | Analisis Big Data B | 202110370311437       |
+| Anisha Wulandari P      | Analisis Big Data B | 202110370311438       |
 
 ## Ucapan Terima Kasih
 Kepada Yth. Bapak Yuda Munarko
