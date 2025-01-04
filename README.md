@@ -1,8 +1,3 @@
----
-title: Analisis Pembatalan Pemesanan Hotel dan Faktor-Faktor Lain yang Mempengaruhi Pendapatan Tahunan hotel
-
----
-
 # Analisis Pembatalan Pemesanan Hotel dan Faktor-Faktor Lain yang Mempengaruhi Pendapatan Tahunan hotel
 
 
